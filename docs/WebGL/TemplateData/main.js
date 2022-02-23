@@ -7,7 +7,7 @@ var config = {
     streamingAssetsUrl: "StreamingAssets",
     companyName: "Andrew Allbright",
     productName: "Metal Slug Inspired Combat Sequence",
-    productVersion: "0.0.3",
+    productVersion: "0.0.7",
     devicePixelRatio: 1,
 }
 
