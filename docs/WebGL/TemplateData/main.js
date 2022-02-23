@@ -1,13 +1,13 @@
 var canvas = document.querySelector("#unity-canvas");
 
 var config = {
-    dataUrl: "Build/WebGL.data.gz",
-    frameworkUrl: "Build/WebGL.framework.js.gz",
-    codeUrl: "Build/WebGL.wasm.gz",
+    dataUrl: "Build/WebGL.data",
+    frameworkUrl: "Build/WebGL.framework.js",
+    codeUrl: "Build/WebGL.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "Andrew Allbright",
     productName: "Metal Slug Inspired Combat Sequence",
-    productVersion: "0.0.2",
+    productVersion: "0.0.3",
     devicePixelRatio: 1,
 }
 
