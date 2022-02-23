@@ -3,7 +3,7 @@ This project serves as an opportunity to reverse engineer a sequence of a game I
 
 ---
 
-[Play the game](https://aallbrig.github.io/reverse-engineer-20-seconds-of-arcade-game/)
+[Play the game](https://aallbrig.github.io/reverse-engineer-20-seconds-of-arcade-game/WebGL/index.html)
 
 ![QR code with link to the video game](img/play-game-qr-code.png)
 
